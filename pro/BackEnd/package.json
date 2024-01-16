@@ -1,0 +1,17 @@
+{
+  "name": "pro",
+  "version": "1.0.0",
+  "description": "react with node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "twinkle",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.4.2"
+  }
+}
